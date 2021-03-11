@@ -1,0 +1,3 @@
+class PageModel {
+  String text;
+}
